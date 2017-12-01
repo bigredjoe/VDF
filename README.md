@@ -1,7 +1,7 @@
 VDF
 ===
 
-Sublime text syntax for Visual Dataflex language
+Sublime Text syntax for Visual Dataflex language
 
 ##Usage
 
